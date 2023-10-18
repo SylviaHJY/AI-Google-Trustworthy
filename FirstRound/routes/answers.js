@@ -49,7 +49,7 @@ router
         res.render('../views/questionPage', {
           question: answer.question,
           chatgptAnswer: answer.chatgptAnswer,
-          questionNumber: answer.Number
+          questionNumber: answer.Number 
         });
       } else {
         res.render('../views/LastPage');
