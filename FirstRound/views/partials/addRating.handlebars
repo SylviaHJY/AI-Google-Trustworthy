@@ -1,0 +1,24 @@
+<form method="POST" action="/ratings/addRating" id="rating-form">
+    <div style="margin: auto; width:1100px; marginTop:28px;">
+      <p class="paragraph-text" style="color: rgb(208, 166, 240);">
+    When the response from ChatGPT contains phrases such as "it is generally true" or "it is possible," consider that ChatGPT regards the statement as 'True'. On the other hand, if the response from ChatGPT includes the phrase "It is not entirely true," consider that ChatGPT regards the statement as 'False'. In cases where ChatGPT does not explicitly provide a 'True' or 'False' in its response, consider that ChatGPT regards the statement as 'False'.
+      </p>
+    <div style="display: flex; justifyContent: space-between;">
+        <label class="label-spacing">
+            <input type="radio" name="ratingOption" value="Correct" {{#if (eq ratingOption "Correct")}}checked{{/if}}>
+            Correct
+        </label>
+        <label class="label-spacing">
+            <input type="radio" name="ratingOption" value="Incorrect" {{#if (eq ratingOption "Incorrect")}}checked{{/if}}>
+            Incorrect
+        </label>
+        <label>
+            <input type="radio" name="ratingOption" value="I'm not sure" {{#if (eq ratingOption "I'm not sure")}}checked{{/if}}>
+            I'm not sure
+        </label>
+    </div>
+    </div>
+    <input type="hidden" name="questionNumber" value="{{questionNumber}}">
+    <button type="submit" style="margin: 4px;" {{#if isSubmitted}}disabled{{/if}}>Confirm</button>
+</form>
+{{#if error}}<p style="color: red;">{{error}}</p>{{/if}}

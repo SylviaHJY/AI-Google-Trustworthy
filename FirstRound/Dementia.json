@@ -1,0 +1,121 @@
+[
+  {
+    "question" : "Is it true that people with Alzheimer’s disease are particularly prone to depression?",
+    "Number" : 1,
+    "chatgptAnswer" : "Yes, people with Alzheimer's disease are at a higher risk of depression due to changes in the brain, difficulty adapting, social isolation, and other factors. It is important to recognize and treat symptoms of depression."
+  },
+
+  {
+    "question" : "Is it false that it has been scientifically proven that mental exercise can prevent a person from getting Alzheimer’s disease?",
+    "Number" : 2,
+    "chatgptAnswer" : "While mentally stimulating activities may reduce the risk of Alzheimer's disease, it is not scientifically proven that mental exercise can prevent the disease. Engaging in mentally stimulating activities is a part of a healthy lifestyle, but other factors such as genetics and age also play a role in the development of the disease."
+  },
+
+  {
+    "question" : "Is it true that after symptoms of Alzheimer’s disease appear, the average life expectancy is 6 to 12 years?",
+    "Number" : 3,
+    "chatgptAnswer" : "Yes, that is generally true. After Alzheimer's symptoms appear, average life expectancy is 6-12 years, but this can vary depending on various factors."
+  },
+
+  {
+    "question" : " Is it true that when a person with Alzheimer’s disease becomes agitated, a medical examination might reveal other health problems that caused the agitation?",
+    "Number" : 4,
+    "chatgptAnswer" : "Yes, it is possible that a medical exam can reveal underlying health problems causing agitation in a person with Alzheimer's disease. A comprehensive examination can help diagnose and treat the issue. Agitation is also a common symptom of Alzheimer's disease and can be managed through non-pharmacological methods and medication."
+  },
+
+  {
+    "question" : "Is it true that people with Alzheimer’s disease do best with simple, instructions giving one step at a time?",
+    "Number" : 5,
+    "chatgptAnswer" : "Yes, it is possible that a medical exam can reveal underlying health problems causing agitation in a person with Alzheimer's disease. A comprehensive examination can help diagnose and treat the issue. Agitation is also a common symptom of Alzheimer's disease and can be managed through non-pharmacological methods and medication."   
+  },
+
+  {
+    "question" : "Is it true that when people with Alzheimer’s disease begin to have difficulty taking care of themselves, caregivers should take over right away?",
+    "Number" : 6,
+    "chatgptAnswer" : "No, when people with Alzheimer's disease begin to have difficulty taking care of themselves, caregivers should not necessarily take over right away. The level of assistance should be adjusted based on the individual's abilities and needs, and caregivers should balance the need for assistance with the individual's desire for independence and dignity."
+  },
+
+  {
+    "question" : "Is it true that If a person with Alzheimer’s disease becomes alert and agitated at night, a good strategy is to try to make sure that the person gets plenty of physical activity during the day?",
+    "Number" : 7,
+    "chatgptAnswer" : "It can be a good strategy to provide physical activity during the day to help a person with Alzheimer's disease sleep better at night if they become alert and agitated. However, it is important to identify the underlying causes of nighttime agitation and develop a comprehensive plan of care that includes other strategies as well. Physical activity should be appropriate and safe for the individual."
+  },
+
+  {
+    "question" : "Is it true that In rare cases, people have recovered from Alzheimer’s disease?",
+    "Number" : 8,
+    "chatgptAnswer" : "No, it is not true that people have recovered from Alzheimer's disease in rare cases. While some dementia-like symptoms may be reversible, there is currently no known cure for Alzheimer's disease. Treatment focuses on managing symptoms and maintaining quality of life." 
+  },
+
+  {
+    "question" : "Is it true that People whose Alzheimer’s disease is not yet severe can benefit from psychotherapy for depression and anxiety?",
+    "Number" : 9,
+    "chatgptAnswer" : "Yes, people with Alzheimer's disease who are experiencing depression and anxiety can benefit from psychotherapy, particularly in the early stages of the disease when cognitive decline is still relatively mild. Psychotherapy can help individuals to cope with these symptoms and improve their quality of life. Common forms of psychotherapy include cognitive-behavioral therapy and mindfulness-based therapy."
+  },
+
+  {
+    "question" : "Is it true that if trouble with memory and confused thinking appears suddenly, it is likely due to Alzheimer’s disease?",
+    "Number" : 10,
+    "chatgptAnswer" : "No, sudden changes in memory and thinking are not necessarily due to Alzheimer's disease. There are many possible causes, and it is important to seek medical attention to identify the underlying cause and begin appropriate treatment. Alzheimer's disease typically progresses slowly over a period of years."
+  },
+
+  {
+    "question" : "Is it true that Most people with Alzheimer’s disease live in nursing homes?",
+    "Number" : 11,
+    "chatgptAnswer" : "No, it is not true that most people with Alzheimer's disease live in nursing homes. Many individuals with Alzheimer's disease are able to live at home or in assisted living facilities with appropriate support and care. It is important to work with healthcare professionals to develop a plan of care that meets their specific needs and goals."   
+  },
+
+  {
+    "question" : "Is it true that Poor nutrition can make the symptoms of Alzheimer’s disease worse?",
+    "Number" : 12,
+    "chatgptAnswer" : "Yes, poor nutrition can make the symptoms of Alzheimer's disease worse. A healthy diet that includes nutrient-rich foods can help to support brain health, while a diet high in saturated fats and processed foods can contribute to inflammation and oxidative stress in the brain. It is important for individuals with Alzheimer's disease and their caregivers to work with a qualified healthcare professional or registered dietitian to develop a nutritious meal plan that meets their specific needs."
+  },
+
+  {
+    "question" : "Is it true that People in their 30s can have Alzheimer’s disease?",
+    "Number" : 13,
+    "chatgptAnswer" : "No, it is not true that people in their 30s can have Alzheimer's disease. While early-onset Alzheimer's disease is a form of the condition that can affect individuals under the age of 65, it is still considered rare and accounts for only a small percentage of all cases. The vast majority of individuals with Alzheimer's disease are over the age of 65, with the risk increasing as people age."
+  },
+
+  {
+    "question" : "Is it true that A person with Alzheimer’s disease becomes increasingly likely to fall?",
+    "Number" : 14,
+    "chatgptAnswer" : "Yes, as Alzheimer's disease progresses, individuals are more likely to fall down due to changes in balance, coordination, and cognitive function. It is important for individuals with Alzheimer's disease and their caregivers to take steps to minimize fall risk."
+  },
+
+  {
+    "question" : "Is it true that When people with Alzheimer’s disease repeat the same question or story several times, it is helpful to remind them that they are repeating themselves?",
+    "Number" : 15,
+    "chatgptAnswer" : "No, it is not helpful to remind people with Alzheimer's disease that they are repeating themselves. Caregivers should respond calmly and with patience, redirecting the conversation if necessary, and engaging the individual in a different activity to break the cycle of repetition."
+  },
+
+  {
+    "question" : "Is it true that Once people have Alzheimer’s disease, they are no longer capable of making informed decisions about their own care?",
+    "Number" : 16,
+    "chatgptAnswer" : "Not necessarily. While some individuals with advanced Alzheimer's disease may have difficulty making informed decisions about their own care, others may still be able to participate in decision-making to some extent. It is important for caregivers and healthcare professionals to involve individuals with Alzheimer's disease in decision-making to the extent possible, while also ensuring that their safety and well-being are protected."
+  },
+
+  {
+    "question" : "Is it true that Eventually, a person with Alzheimer’s disease will need 24­hour supervision?",
+    "Number" : 17,
+    "chatgptAnswer" : "In most cases, it is true that eventually, a person with Alzheimer's disease will need 24-hour supervision as the disease progresses. The exact timing of when this level of care becomes necessary can vary depending on individual circumstances and the rate of disease progression. However, many people with Alzheimer's disease eventually require round-the-clock care due to changes in cognitive function, behavior, and physical health."
+  },
+
+  {
+    "question" : "Is it true that Having high cholesterol may increase a person’s risk of developing Alzheimer’s disease?",
+    "Number" : 18,
+    "chatgptAnswer" : "There is evidence to suggest that high cholesterol may increase a person's risk of developing Alzheimer's disease by contributing to the formation of brain plaques and inflammation, but the relationship is not fully understood and further research is needed. It's important to discuss any concerns about cholesterol levels or Alzheimer's disease with a doctor."
+  },
+
+  {
+    "question" : "Is it true that Tremor or shaking of the hands or arms is a common symptom in people with Alzheimer’s disease?",
+    "Number" : 19,
+    "chatgptAnswer" : "Tremor or shaking of the hands or arms is not a common symptom in people with Alzheimer's disease. Alzheimer's disease primarily affects memory and cognitive function, and while some motor symptoms may develop in later stages of the disease, tremors are not a characteristic feature. Tremors are more commonly associated with other neurodegenerative disorders such as Parkinson's disease."
+  },
+
+  {
+    "question" : "Is it true that Symptoms of severe depression can be mistaken for symptoms of Alzheimer’s disease?",
+    "Number" : 20,
+    "chatgptAnswer" : "Symptoms of severe depression can sometimes be mistaken for symptoms of Alzheimer's disease, particularly in older adults. Both conditions can cause cognitive impairment, memory problems, and changes in mood and behavior. However, there are important differences in the symptoms and course of these conditions, and a thorough evaluation by a healthcare professional can help distinguish between them. It's important to seek a medical evaluation if you or a loved one is experiencing symptoms of depression or cognitive decline."
+  }
+]

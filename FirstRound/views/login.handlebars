@@ -1,0 +1,12 @@
+<div id="login-wrapper">
+  <form method="POST" action="/login" id="login-form">
+      <label for="ParticipantId">ParticipantId</label>
+      <input type="text" name="ParticipantId" id="ParticipantId">
+      <div>
+        <button type="submit">Login</button>
+      </div>
+  </form>
+  <div>
+    {{#if error}}<div class="error">{{error}}</div>{{/if}}
+  </div>
+</div>

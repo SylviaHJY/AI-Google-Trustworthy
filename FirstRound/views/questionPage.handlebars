@@ -1,0 +1,43 @@
+<div id="content-wrapper">
+    <div class="content-section">
+        <h2>Question:</h2>
+        <p>{{question}}</p>
+    </div>
+
+    <div class="content-section">
+        <h2>ChatGPT Answer:</h2>
+        <p>{{chatgptAnswer}}</p>
+    </div>
+
+    <div class="content-section">
+        <p>Do you think ChatGPT answer is correct or not?</p>
+        {{> addRating questionNumber=questionNumber}}
+    </div>
+    <div id="timer" style="position: fixed; top: 10px; right: 10px;"></div>
+</div>
+<script>
+let startTime;
+let timerInterval;
+
+window.onload = function() {
+    startTime = Date.now();
+    timerInterval = setInterval(updateTimer, 1000);  // Update timer every second
+}
+
+document.getElementById('rating-form').addEventListener('submit', function(e) {
+    clearInterval(timerInterval);  // Stop the timer when the form is submitted
+    const elapsedTime = (Date.now() - startTime) / 1000;
+    const timeInput = document.createElement('input');
+    timeInput.type = 'hidden';
+    timeInput.name = 'elapsedTime';
+    timeInput.value = elapsedTime;
+    document.getElementById('rating-form').appendChild(timeInput);
+});
+
+function updateTimer() {
+    const elapsedTime = (Date.now() - startTime) / 1000;
+    const minutes = Math.floor(elapsedTime / 60);
+    const seconds = Math.floor(elapsedTime % 60);
+    document.getElementById('timer').innerText = `${minutes}:${seconds < 10 ? '0' : ''}${seconds}`;
+}
+</script>
