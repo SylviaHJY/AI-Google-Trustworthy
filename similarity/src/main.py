@@ -4,6 +4,9 @@ from fastapi.middleware.cors import CORSMiddleware
 
 app = FastAPI()
 
+@app.get("/")
+def read_root():
+    return {"Hello": "World"}
 origins = [
     "http://localhost:3000",    # replace with the origin of your frontend
 ]
