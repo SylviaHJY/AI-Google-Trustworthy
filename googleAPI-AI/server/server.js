@@ -78,7 +78,7 @@ app.get('/api/search', async (req, res) => {
     });
 
     console.log("----------------------------------------------");
-    console.log("Search results:", processedData);
+    console.log("Search results:", JSON.stringify(processedData, null, 2));
   } catch (error) {
     if (error.response) {
       // The request was made and the server responded with a status code
@@ -143,7 +143,7 @@ app.get('/api/keywordSearch', async (req, res) => {
     });
 
     console.log("----------------------------------------------");
-    console.log("Keywords Search results:", processedData);
+    console.log("Keywords Search results:", JSON.stringify(processedData, null, 2));
 
   } catch (error) {
     if (error.response) {
