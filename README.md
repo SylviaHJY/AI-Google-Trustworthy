@@ -5,18 +5,6 @@ AI Trust Evaluator is a comprehensive system designed to facilitate users in eva
 
 Leveraging Hugging Face's Transformers library, BERT model, and BertTokenizer, the system achieves high-precision language understanding. It further utilizes advanced NLP techniques with Retext for keyword extraction and text analysis. FastAPI web framework's Pydantic is employed for robust and efficient data validation, and cosine similarity metrics are implemented for nuanced comparison of AI and Google Search responses.
 
-### MainPage
-![MainPage](/public/images/mainPage.png)
-
-### Login
-![LoginPage](/public/images/LoginPage.png)
-
-### First Rating
-![firstRating](/public/images/firstRating.png)
-
-### Second Rating
-![secondRating](/public/images/secondRating.png)
-
 ### Technologies Used
 
 Frontend:
